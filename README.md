@@ -11,7 +11,7 @@ Resistor 220Ohms 3x
 Botão
 ### Programação:
 (https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/LED_Lustre1.ino)
-### Circuito(Tinkercad):
+### Circuito (Tinkercad):
 (https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/cd8c1b04-cea6-42b5-9787-91d07af8d4d7.jpeg)
 ### Circuito Prático:
 https://www.youtube.com/watch?v=Qh3KHWZENs4&t=4s
