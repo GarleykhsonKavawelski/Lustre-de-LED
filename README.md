@@ -12,10 +12,15 @@ nyshimura@gmail.com
 Matheus.Haddad@etec.sp.gov.br
 ### Componentes utilizados: 
 Arduino Uno
+
 Protoboard
+
 LED 3x
+
 Cabos Jumpers(Macho-Macho e Macho-femea)
+
 Resistor 220Ohms 3x
+
 Botão
 ### Programação:
 (https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/LED_Lustre1.ino)
