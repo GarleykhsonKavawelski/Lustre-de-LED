@@ -10,7 +10,7 @@ Cabos Jumpers(Macho-Macho e Macho-femea)
 Resistor 220Ohms 3x
 Botão
 ### Programação:
-(https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/LED_Lustre1.ino))
+(https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/LED_Lustre1.ino)
 ### Circuito(Tinkercad):
 (https://github.com/GarleykhsonKavawelski/Programa-oLEDLUSTRE/blob/main/cd8c1b04-cea6-42b5-9787-91d07af8d4d7.jpeg)
 ### Circuito Prático:
